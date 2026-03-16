@@ -25,7 +25,7 @@ them.
 ## Basic linear algebra
 
 * [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-  (C and Assembly, BSD, [GitHub](https://github.com/OpenMathLib/OpenBLAS) ⭐ 7,330 | 🐛 124 | 🌐 C | 📅 2026-03-12)
+  (C and Assembly, BSD, [GitHub](https://github.com/OpenMathLib/OpenBLAS) ⭐ 7,331 | 🐛 124 | 🌐 C | 📅 2026-03-15)
 * [BLIS](https://github.com/flame/blis) ⭐ 2,613 | 🐛 126 | 🌐 C | 📅 2025-11-11 - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
 * [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
@@ -42,10 +42,10 @@ them.
 ## Multi-purpose toolkits
 
 * [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
-  (Python, BSD, [GitHub](https://github.com/numpy/numpy) ⭐ 31,605 | 🐛 2,333 | 🌐 Python | 📅 2026-03-15)
+  (Python, BSD, [GitHub](https://github.com/numpy/numpy) ⭐ 31,607 | 🐛 2,334 | 🌐 Python | 📅 2026-03-15)
 * [SciPy](https://scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
-  (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/) ⭐ 14,535 | 🐛 1,795 | 🌐 Python | 📅 2026-03-14)
-* [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl) ⭐ 3,075 | 🐛 168 | 🌐 Julia | 📅 2026-02-08)
+  (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/) ⭐ 14,536 | 🐛 1,788 | 🌐 Python | 📅 2026-03-16)
+* [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl) ⭐ 3,075 | 🐛 169 | 🌐 Julia | 📅 2026-02-08)
 * [PETSc](https://petsc.org/release/) - Parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 * [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
@@ -54,18 +54,18 @@ them.
 ## Finite Elements
 
 * [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-  (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose) ⭐ 2,173 | 🐛 2,632 | 🌐 C++ | 📅 2026-03-14)
+  (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose) ⭐ 2,174 | 🐛 2,631 | 🌐 C++ | 📅 2026-03-16)
 * [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
-  (C++, BSD-3-Clause, [GitHub](https://github.com/mfem/mfem) ⭐ 2,126 | 🐛 237 | 🌐 C++ | 📅 2026-03-14)
+  (C++, BSD-3-Clause, [GitHub](https://github.com/mfem/mfem) ⭐ 2,127 | 🐛 237 | 🌐 C++ | 📅 2026-03-16)
 * [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
-  (C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii) ⭐ 1,638 | 🐛 643 | 🌐 C++ | 📅 2026-03-15)
+  (C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii) ⭐ 1,638 | 🐛 646 | 🌐 C++ | 📅 2026-03-16)
 * [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy) ⭐ 822 | 🐛 79 | 🌐 Python | 📅 2026-03-13)
 * [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh) ⭐ 738 | 🐛 325 | 🌐 C | 📅 2026-03-13)
 * [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
-  (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake) ⭐ 641 | 🐛 363 | 🌐 Python | 📅 2026-03-14)
-* [scikit-fem](https://github.com/kinnala/scikit-fem) ⭐ 610 | 🐛 11 | 🌐 Python | 📅 2026-01-30 - Simple finite element assemblers.
+  (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake) ⭐ 642 | 🐛 363 | 🌐 Python | 📅 2026-03-14)
+* [scikit-fem](https://github.com/kinnala/scikit-fem) ⭐ 611 | 🐛 11 | 🌐 Python | 📅 2026-01-30 - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
 * [Netgen/NGSolve](https://ngsolve.org) - High performance multiphysics finite element software.
   (C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen) ⭐ 367 | 🐛 111 | 🌐 C++ | 📅 2026-03-12)
@@ -81,10 +81,10 @@ them.
 ### Triangular and tetrahedral meshing
 
 * [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
-  (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal) ⭐ 5,792 | 🐛 686 | 🌐 C++ | 📅 2026-03-13)
+  (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal) ⭐ 5,794 | 🐛 686 | 🌐 C++ | 📅 2026-03-13)
 * [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
-  (Python, MIT, [GitHub](https://github.com/mikedh/trimesh) ⭐ 3,510 | 🐛 480 | 🌐 Python | 📅 2026-03-11)
-* [pygmsh](https://github.com/nschloe/pygmsh) ⭐ 953 | 🐛 60 | 🌐 Python | 📅 2023-10-04 - Python interface for Gmsh.
+  (Python, MIT, [GitHub](https://github.com/mikedh/trimesh) ⭐ 3,511 | 🐛 480 | 🌐 Python | 📅 2026-03-11)
+* [pygmsh](https://github.com/nschloe/pygmsh) ⭐ 952 | 🐛 60 | 🌐 Python | 📅 2023-10-04 - Python interface for Gmsh.
   (Python, GPL 3, GitHub)
 * [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild) ⭐ 699 | 🐛 31 | 🌐 C++ | 📅 2023-04-27)
@@ -112,7 +112,7 @@ them.
 ### Quadrilateral and hexahedral meshing
 
 * [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
-  (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow) ⭐ 811 | 🐛 8 | 🌐 C++ | 📅 2019-12-07)
+  (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow) ⭐ 812 | 🐛 8 | 🌐 C++ | 📅 2019-12-07)
 
 ### Mesh tools
 
@@ -123,7 +123,7 @@ them.
 * [optimesh](https://github.com/meshpro/optimesh) ⭐ 627 | 🐛 3 | 📅 2024-01-21 - Triangular mesh smoothing.
   (Python, proprietary, GitHub)
 * [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
-  (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg) ⭐ 455 | 🐛 41 | 🌐 C | 📅 2026-03-06)
+  (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg) ⭐ 456 | 🐛 41 | 🌐 C | 📅 2026-03-06)
 * [meshplex](https://github.com/meshpro/meshplex) ⭐ 109 | 🐛 8 | 📅 2025-07-23 - Fast tools for simplex meshes.
   (Python, proprietary, GitHub)
 * [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
@@ -132,13 +132,13 @@ them.
 ## Data formats
 
 * [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
-  (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 1,936 | 🐛 576 | 🌐 Python | 📅 2026-03-13)
+  (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 1,935 | 🐛 576 | 🌐 Python | 📅 2026-03-13)
 * [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
-  (C/Fortran, BSD, [GitHub](https://github.com/HDFGroup/hdf5) ⭐ 912 | 🐛 309 | 🌐 C | 📅 2026-03-13)
+  (C/Fortran, BSD, [GitHub](https://github.com/HDFGroup/hdf5) ⭐ 912 | 🐛 310 | 🌐 C | 📅 2026-03-13)
 * [NetCDF](https://www.unidata.ucar.edu/software/netcdf) - Software libraries and data formats for array-oriented scientific data.
   (C/C++/Fortran/Java/Python, [custom open-source
   license](https://www.unidata.ucar.edu/software/netcdf/licensing),
-  [GitHub](https://github.com/Unidata/netcdf-c/) ⭐ 585 | 🐛 312 | 🌐 C | 📅 2026-03-13)
+  [GitHub](https://github.com/Unidata/netcdf-c/) ⭐ 585 | 🐛 313 | 🌐 C | 📅 2026-03-13)
 * [XDMF](https://xdmf.org/) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 
@@ -154,11 +154,11 @@ them.
 ## Visualization
 
 * [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
-  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d) ⭐ 4,195 | 🐛 278 | 🌐 C++ | 📅 2026-03-13)
+  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d) ⭐ 4,200 | 🐛 280 | 🌐 C++ | 📅 2026-03-15)
 * [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-  (Python, MIT, [GitHub](https://github.com/pyvista/pyvista) ⭐ 3,565 | 🐛 720 | 🌐 Python | 📅 2026-03-15)
+  (Python, MIT, [GitHub](https://github.com/pyvista/pyvista) ⭐ 3,568 | 🐛 721 | 🌐 Python | 📅 2026-03-16)
 * [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
-  (Python, MIT, [GitHub](https://github.com/marcomusy/vedo) ⭐ 2,244 | 🐛 164 | 🌐 Python | 📅 2026-02-18)
+  (Python, MIT, [GitHub](https://github.com/marcomusy/vedo) ⭐ 2,243 | 🐛 164 | 🌐 Python | 📅 2026-02-18)
 * [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope) ⭐ 2,149 | 🐛 118 | 🌐 C++ | 📅 2026-02-26)
 * [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
@@ -176,15 +176,15 @@ them.
 ## Other libraries and tools
 
 * [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-  (Python, Apache 2.0, [GitHub](https://github.com/cvxpy/cvxpy) ⭐ 6,136 | 🐛 224 | 🌐 C++ | 📅 2026-03-14)
+  (Python, Apache 2.0, [GitHub](https://github.com/cvxpy/cvxpy) ⭐ 6,138 | 🐛 226 | 🌐 C++ | 📅 2026-03-14)
 * [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
   (C, GPL2, [GitHub](https://github.com/FFTW/fftw3) ⭐ 3,039 | 🐛 177 | 🌐 C | 📅 2026-02-16)
 * [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-  (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt) ⭐ 2,351 | 🐛 80 | 🌐 Python | 📅 2026-03-01)
+  (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt) ⭐ 2,352 | 🐛 80 | 🌐 Python | 📅 2026-03-01)
 * [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
-  (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev) ⭐ 2,001 | 🐛 7 | 🌐 C++ | 📅 2026-03-14)
+  (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev) ⭐ 2,003 | 🐛 7 | 🌐 C++ | 📅 2026-03-15)
 * [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
-  (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM) ⭐ 979 | 🐛 204 | 🌐 Python | 📅 2026-01-22)
+  (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM) ⭐ 979 | 🐛 205 | 🌐 Python | 📅 2026-01-22)
 * [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
   (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
   [GitHub](https://github.com/qhull/qhull/) ⭐ 806 | 🐛 29 | 🌐 C | 📅 2025-09-07)
